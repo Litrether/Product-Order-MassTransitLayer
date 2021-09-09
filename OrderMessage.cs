@@ -1,4 +1,4 @@
-﻿namespace CrossCuttingLayer.Models
+﻿namespace CrossCuttingLayer
 {
     public class OrderMessage
     {
